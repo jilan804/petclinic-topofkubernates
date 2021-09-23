@@ -4,5 +4,5 @@ metadata:
   name: db-conf
 data:
  host: kumar-mysql
- name: kumar_db
+ name: kumar_db      #database name given
 
